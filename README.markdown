@@ -39,7 +39,3 @@ This project provides a step-by-step guide to building an affordable and accessi
 ## Notes
 - **Pin Conflict**: Pin 10 is used for both SD_CS and MOTOR1_IN2. Adjust the SD_CS_PIN definition in the code to a free pin (e.g., 8) and rewire accordingly.
 - **Calibration**: Adjust `ANGLE_INCREMENT` and `STEPS_PER_REV` based on your mechanical setup.
-- **Images**: Add diagrams (e.g., `image1.png` to `image46.svg` from the PowerPoint) to the repository for clarity.
-
-## Contributing
-Feel free to fork this repository, submit issues, or pull requests to improve the project.
